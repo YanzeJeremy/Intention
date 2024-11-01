@@ -6,7 +6,6 @@ export SAVE_PATH=../output/V1
 python sft.py \
     --dataset_name=${DATA_PATH}\
     --model_name_or_path=${CKPT_PATH} \
-    --report_to="wandb" \
     --learning_rate=5e-5 \
     --per_device_train_batch_size=2 \
     --gradient_accumulation_steps=16 \

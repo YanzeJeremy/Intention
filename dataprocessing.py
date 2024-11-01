@@ -18,7 +18,7 @@ with open(valid_file_path, 'r') as f:
 
 # Prepare the data with the prompt in the desired format
 merged_data = {"train": [], "valid": [], "test": []}
-prompt_template = "Classify the following message: '{}'."
+prompt_template = "Giving the following categories:Small-Talk, Empathy, Coordination, No-Need, Elicit-Pref, Undervalue-Partner, Vouch-Fairness, Self-Need, Other-Need, Non-strategic. Please classify the following utterance into one or more strategies: '{}'."
 
 
 def process_data(data, split_name):

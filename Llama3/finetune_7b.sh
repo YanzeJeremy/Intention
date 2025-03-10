@@ -1,6 +1,6 @@
-export DATA_PATH=../merged_casino_dataset.json
-export CKPT_PATH=meta-llama/Meta-Llama-3.1-8B
-export SAVE_PATH=../output/V1
+export DATA_PATH=../llama3_prompt_merged_casino_dataset_history.json
+export CKPT_PATH=meta-llama/Llama-3.1-8B-Instruct
+export SAVE_PATH=../output/Llama-3.1-8B-Instruct/V3_history
 
 
 python sft.py \

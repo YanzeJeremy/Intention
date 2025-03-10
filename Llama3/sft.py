@@ -6,7 +6,18 @@ import logging
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, TrainingArguments, pipeline, logging
 from peft import LoraConfig, prepare_model_for_kbit_training, get_peft_model 
 from datasets import load_dataset
+from trl.commands.cli_utils import init_zero_verbose, TrlParser
+# from trl import (
+#     ModelConfig,
+#     RichProgressCallback,
+#     SFTTrainer,
+#     get_peft_config,
+#     get_quantization_config,
+#     get_kbit_device_map,
+# )
+
 from trl import (
+    RichProgressCallback,
     ModelConfig,
     ScriptArguments,
     SFTConfig,
@@ -17,22 +28,23 @@ from trl import (
     get_quantization_config,
 )
 
-# TRL_USE_RICH = os.environ.get("TRL_USE_RICH", False)
-# if TRL_USE_RICH:
-#     init_zero_verbose()
-#     FORMAT = "%(message)s"
 
-#     from rich.console import Console
-#     from rich.logging import RichHandler
+TRL_USE_RICH = os.environ.get("TRL_USE_RICH", False)
+if TRL_USE_RICH:
+    init_zero_verbose()
+    FORMAT = "%(message)s"
+
+    from rich.console import Console
+    from rich.logging import RichHandler
 
 from tqdm.rich import tqdm
 tqdm.pandas()
 
-# if TRL_USE_RICH:
-#     logging.basicConfig(format=FORMAT, datefmt="[%X]", handlers=[RichHandler()], level=logging.INFO)
+if TRL_USE_RICH:
+    logging.basicConfig(format=FORMAT, datefmt="[%X]", handlers=[RichHandler()], level=logging.INFO)
 
 if __name__ == "__main__":
-    #parser = TrlParser((SftScriptArguments, TrainingArguments, ModelConfig))
+    # parser = TrlParser((SftScriptArguments, TrainingArguments, ModelConfig))
     parser = TrlParser((ScriptArguments, SFTConfig, ModelConfig))
     args, training_args, model_config = parser.parse_args_and_config()
 
@@ -43,9 +55,9 @@ if __name__ == "__main__":
     print(model_config)
 
     # Force use our print callback
-    # if TRL_USE_RICH:
-    #     training_args.disable_tqdm = True
-    #     console = Console()
+    if TRL_USE_RICH:
+        training_args.disable_tqdm = True
+        console = Console()
 
     # Model & Tokenizer
     torch_dtype = (
@@ -55,6 +67,9 @@ if __name__ == "__main__":
     )
     # quantization_config = get_quantization_config(model_config)
     quantization_config = None
+
+    # if isinstance(model_config.lora_target_modules, str):
+    #     lora_target_modules = model_config.lora_target_modules.replace("[", "").replace("]", "").split(",")
     
     model_kwargs = dict(
         revision=model_config.model_revision,
@@ -65,6 +80,9 @@ if __name__ == "__main__":
         device_map=get_kbit_device_map() if quantization_config is not None else None,
         quantization_config=quantization_config,
     )
+
+
+    training_args.model_init_kwargs = model_kwargs
     tokenizer = AutoTokenizer.from_pretrained(model_config.model_name_or_path, use_fast=True)
     tokenizer.pad_token = tokenizer.eos_token
 
@@ -73,26 +91,39 @@ if __name__ == "__main__":
     eval_dataset = load_dataset('json', data_files={'eval': args.dataset_name}, field='eval', split='eval')
 
     # Optional rich context managers
-    # init_context = nullcontext() if not TRL_USE_RICH else console.status("[bold green]Initializing the SFTTrainer...")
-    # save_context = (
-    #     nullcontext()
-    #     if not TRL_USE_RICH
-    #     else console.status(f"[bold green]Training completed! Saving the model to {training_args.output_dir}")
-    # )
+    init_context = nullcontext() if not TRL_USE_RICH else console.status("[bold green]Initializing the SFTTrainer...")
+    save_context = (
+        nullcontext()
+        if not TRL_USE_RICH
+        else console.status(f"[bold green]Training completed! Saving the model to {training_args.output_dir}")
+    )
 
     # Training
-    # with init_context:
-    trainer = SFTTrainer(
+    with init_context:
+        trainer = SFTTrainer(
         model=model_config.model_name_or_path,
-        model_init_kwargs=model_kwargs,
         args=training_args,
         train_dataset=train_dataset,
         eval_dataset=eval_dataset,
-        tokenizer=tokenizer,
+        processing_class=tokenizer,
         peft_config=get_peft_config(model_config),
+        callbacks=[RichProgressCallback] if TRL_USE_RICH else None,
     )
+        # trainer = SFTTrainer(
+        #     model=model_config.model_name_or_path,
+        #     model_init_kwargs=model_kwargs,
+        #     args=training_args,
+        #     train_dataset=train_dataset,
+        #     eval_dataset=eval_dataset,
+        #     dataset_text_field=args.dataset_text_field,
+        #     max_seq_length=args.max_seq_length,
+        #     tokenizer=tokenizer,
+        #     packing=args.packing,
+        #     peft_config=get_peft_config(model_config),
+        #     callbacks=[RichProgressCallback] if TRL_USE_RICH else None,
+        # )
 
     trainer.train()
 
-    # with save_context:
+    
     trainer.save_model(training_args.output_dir)

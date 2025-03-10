@@ -1,0 +1,398 @@
+[
+    {
+        "dialogue_id": 548,
+        "chat_logs": [
+            {
+                "text": "Hi we would like you to consider giving us all of the rations for the trip.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "hello, that could be a good idea, but I think I need more rations",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "How important are they to you? We would like to get a good mix, preferably more food.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "I need more food and water, you see I am diabetic, I need to eat many small meals",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "\ud83d\ude21 I can let the firewood and water lax if you provide us food.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "let me have two food and three parts of water, I can let you have all the firewood and one fpart food",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "We do have a fire to start, but we are very hungry. Diabetics can eat less food because of the small meals. Don't lie to me.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "\ud83d\ude21my type of diabetes needs many meals otherwise my insulin levels will be low",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "I am diabetic also.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "your type maybe needs wild fruits which you can easily gather\ud83d\ude42",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Submit-Deal",
+                "task_data": {
+                    "issue2youget": {
+                        "Food": "2",
+                        "Firewood": "3",
+                        "Water": "1"
+                    },
+                    "issue2theyget": {
+                        "Food": "1",
+                        "Firewood": "0",
+                        "Water": "2"
+                    }
+                },
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "Reject-Deal",
+                "task_data": {
+                    "data": "reject_deal"
+                },
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Submit-Deal",
+                "task_data": {
+                    "issue2youget": {
+                        "Water": "3",
+                        "Food": "1",
+                        "Firewood": "3"
+                    },
+                    "issue2theyget": {
+                        "Water": "0",
+                        "Food": "2",
+                        "Firewood": "0"
+                    }
+                },
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Reject-Deal",
+                "task_data": {
+                    "data": "reject_deal"
+                },
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "Submit-Deal",
+                "task_data": {
+                    "issue2youget": {
+                        "Food": "1",
+                        "Firewood": "3",
+                        "Water": "1"
+                    },
+                    "issue2theyget": {
+                        "Food": "2",
+                        "Firewood": "0",
+                        "Water": "2"
+                    }
+                },
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "Accept-Deal",
+                "task_data": {
+                    "data": "accept_deal"
+                },
+                "id": "mturk_agent_1"
+            }
+        ],
+        "participant_info": {
+            "mturk_agent_2": {
+                "value2issue": {
+                    "High": "Food",
+                    "Low": "Water",
+                    "Medium": "Firewood"
+                },
+                "value2reason": {
+                    "High": "We need addition food to sustain our camping trip. ",
+                    "Medium": "We would like to use a little more firewood, but it isn't as important.",
+                    "Low": "We would like to have a little additional water, however we prefer food."
+                },
+                "outcomes": {
+                    "points_scored": 20,
+                    "satisfaction": "Slightly satisfied",
+                    "opponent_likeness": "Undecided"
+                },
+                "demographics": {
+                    "age": 31,
+                    "gender": "male",
+                    "ethnicity": "white american",
+                    "education": "some 2 year college, associate's degree"
+                },
+                "personality": {
+                    "svo": "prosocial",
+                    "big-five": {
+                        "extraversion": 4.0,
+                        "agreeableness": 4.5,
+                        "conscientiousness": 4.0,
+                        "emotional-stability": 4.0,
+                        "openness-to-experiences": 4.0
+                    }
+                }
+            },
+            "mturk_agent_1": {
+                "value2issue": {
+                    "Medium": "Food",
+                    "High": "Water",
+                    "Low": "Firewood"
+                },
+                "value2reason": {
+                    "High": "to stay hydrated, I will need more water because I need to stay hydrated, If I don't I will faint. ",
+                    "Medium": "because I am diabetic. I need to eat small many meals",
+                    "Low": "to cook and stay warm."
+                },
+                "outcomes": {
+                    "points_scored": 18,
+                    "satisfaction": "Slightly satisfied",
+                    "opponent_likeness": "Undecided"
+                },
+                "demographics": {
+                    "age": 30,
+                    "gender": "female",
+                    "ethnicity": "black or african american",
+                    "education": "some 4 year college, bachelor's degree"
+                },
+                "personality": {
+                    "svo": "proself",
+                    "big-five": {
+                        "extraversion": 6.5,
+                        "agreeableness": 6.5,
+                        "conscientiousness": 6.5,
+                        "emotional-stability": 6.5,
+                        "openness-to-experiences": 6.5
+                    }
+                }
+            }
+        },
+        "annotations": [
+            [
+                "Hi we would like you to consider giving us all of the rations for the trip.",
+                "non-strategic"
+            ],
+            [
+                "hello, that could be a good idea, but I think I need more rations",
+                "non-strategic"
+            ],
+            [
+                "How important are they to you? We would like to get a good mix, preferably more food.",
+                "elicit-pref"
+            ],
+            [
+                "I need more food and water, you see I am diabetic, I need to eat many small meals",
+                "self-need"
+            ],
+            [
+                "\ud83d\ude21 I can let the firewood and water lax if you provide us food.",
+                "promote-coordination"
+            ],
+            [
+                "let me have two food and three parts of water, I can let you have all the firewood and one fpart food",
+                "non-strategic"
+            ],
+            [
+                "We do have a fire to start, but we are very hungry. Diabetics can eat less food because of the small meals. Don't lie to me.",
+                "self-need,other-need"
+            ],
+            [
+                "\ud83d\ude21my type of diabetes needs many meals otherwise my insulin levels will be low",
+                "non-strategic"
+            ],
+            [
+                "I am diabetic also.",
+                "small-talk"
+            ],
+            [
+                "your type maybe needs wild fruits which you can easily gather\ud83d\ude42",
+                "uv-part"
+            ]
+        ]
+    },
+    {
+        "dialogue_id": 953,
+        "chat_logs": [
+            {
+                "text": "Hello! I'm looking forward to making a deal. Let's find something that works for us both.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "Hello there.  I am absolutely interested in coming to an agreement as well.  it's pleasant to meet you!",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Nice to meet you too. So what do you need most?",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "So, I'm a chef.  My largest concern is getting a nice, hot, fire.  In order to do that I'll need firewood the most.  What are you looking for the most?",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "That's awesome! I am most definitely NOT a chef, but I'm going to be doing a lot of hiking, so I'll need a lot of water to stay hydrated. And a bit of extra food to keep us all full.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "Fair enough.  I'm also going to need a bit of water, but I'm sure we can come to an agreement fair for both of us.  As far as food goes, I only require very little, my pantry already is pretty stocked there.",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Well, if I take 2 waters and you take 1, will you let me have all of the food?",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "I think that's asking a bit too much, because I still would like some food.  I'd be willing to take all the firewood, one water, and one food, if that sounds passable to you.",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Well, if I'm splitting the food and water with you, I'd like a single firewood. I'm no chef, but it'll be freezing cold overnight, and I just need a little extra to keep warm.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "I must insist on the Firewood, that's the most important thing to me - you should have enough from your default package for a nice fire.  I could use more water, but I'm letting you take the lions share of that, so I think one food isn't too unfair for that.",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Okay, that's fair. You put in the deal, and I'll gladly accept.",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "Alrighty.  Hope you have fun on your hiking!  Make sure you stay hydrated.  Going to push it through now.",
+                "task_data": {},
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Sounds good, you have fun, too! And good luck cooking up all that food, chef!",
+                "task_data": {},
+                "id": "mturk_agent_2"
+            },
+            {
+                "text": "Submit-Deal",
+                "task_data": {
+                    "issue2youget": {
+                        "Firewood": "3",
+                        "Water": "1",
+                        "Food": "1"
+                    },
+                    "issue2theyget": {
+                        "Firewood": "0",
+                        "Water": "2",
+                        "Food": "2"
+                    }
+                },
+                "id": "mturk_agent_1"
+            },
+            {
+                "text": "Accept-Deal",
+                "task_data": {
+                    "data": "accept_deal"
+                },
+                "id": "mturk_agent_2"
+            }
+        ],
+        "participant_info": {
+            "mturk_agent_2": {
+                "value2issue": {
+                    "Low": "Food",
+                    "Medium": "Water",
+                    "High": "Firewood"
+                },
+                "value2reason": {
+                    "High": "I brought way too much raw meat, which means I'll need some firewood to cook it.",
+                    "Medium": "I didn't bring enough water and I'm going to do a ton of hiking, so I need to stay hydrated.",
+                    "Low": "I already have plenty of food, and I can cook more, which is why I prioritize firewood over this."
+                },
+                "outcomes": {
+                    "points_scored": 14,
+                    "satisfaction": "Extremely dissatisfied",
+                    "opponent_likeness": "Slightly dislike"
+                },
+                "demographics": {
+                    "age": 36,
+                    "gender": "male",
+                    "ethnicity": "hispanic or latino",
+                    "education": "some 4 year college, bachelor's degree"
+                },
+                "personality": {
+                    "svo": "prosocial",
+                    "big-five": {
+                        "extraversion": 7.0,
+                        "agreeableness": 6.0,
+                        "conscientiousness": 7.0,
+                        "emotional-stability": 7.0,
+                        "openness-to-experiences": 7.0
+                    }
+                }
+            },
+            "mturk_agent_1": {
+                "value2issue": {
+                    "Low": "Food",
+                    "Medium": "Water",
+                    "High": "Firewood"
+                },
+                "value2reason": {
+                    "High": "I am a gourmet cook, and I need a very high heat to cook some delicious food.",
+                    "Medium": "Part of my recipes involve quite a bit of water, but I already have a pretty solid amount.",
+                    "Low": "I already have most of what I need in my own pantry here, it's always welcome, but I can do without just fine."
+                },
+                "outcomes": {
+                    "points_scored": 22,
+                    "satisfaction": "Slightly satisfied",
+                    "opponent_likeness": "Extremely like"
+                },
+                "demographics": {
+                    "age": 33,
+                    "gender": "male",
+                    "ethnicity": "white american",
+                    "education": "high school graduate / ged"
+                },
+                "personality": {
+                    "svo": "proself",
+                    "big-five": {
+                        "extraversion": 7.0,
+                        "agreeableness": 6.5,
+                        "conscientiousness": 7.0,
+                        "emotional-stability": 7.0,
+                        "openness-to-experiences": 4.0
+                    }
+                }
+            }
+        },
+        "annotations": []
+    }
+]

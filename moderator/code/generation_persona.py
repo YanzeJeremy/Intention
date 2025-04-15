@@ -121,6 +121,9 @@ for idx, dialogue in enumerate(data):
 1) Your Highest Priority item is {dialogue["participant_info"]["mturk_agent_1"]["value2issue"]["High"]} and reason for this item is: {dialogue["participant_info"]["mturk_agent_1"]["value2reason"]["High"]}
 2) Your Medium Priority item is {dialogue["participant_info"]["mturk_agent_1"]["value2issue"]["Medium"]} and reason for this item is: {dialogue["participant_info"]["mturk_agent_1"]["value2reason"]["Medium"]}
 3) Your Lowest Priority item is {dialogue["participant_info"]["mturk_agent_1"]["value2issue"]["Low"]} and reason for this item is: {dialogue["participant_info"]["mturk_agent_1"]["value2reason"]["Low"]}
+4) You are a {dialogue["participant_info"]["mturk_agent_1"]["demographics"]["age"]} year old {dialogue["participant_info"]["mturk_agent_1"]["demographics"]["gender"]}, you are {dialogue["participant_info"]["mturk_agent_1"]["demographics"]["ethnicity"]} and your education level is {dialogue["participant_info"]["mturk_agent_1"]["demographics"]["education"]}.
+5) Your social value orientation is {dialogue["participant_info"]["mturk_agent_1"]["personality"]["svo"]}.
+6) Your big-five personality traits scores are as following(value between 1 and 7): extraversion: {dialogue["participant_info"]["mturk_agent_1"]["personality"]["big-five"]["extraversion"]}, agreeableness: {dialogue["participant_info"]["mturk_agent_1"]["personality"]["big-five"]["agreeableness"]}, conscientiousness: {dialogue["participant_info"]["mturk_agent_1"]["personality"]["big-five"]["conscientiousness"]}, emotional-stability: {dialogue["participant_info"]["mturk_agent_1"]["personality"]["big-five"]["emotional-stability"]}, openness-to-experiences: {dialogue["participant_info"]["mturk_agent_1"]["personality"]["big-five"]["openness-to-experiences"]}
 
 **AN EXAMPLE CONVERSATION**
 Player A: Hello! I'm looking forward to making a deal. Let's find something that works for both of us.
@@ -224,6 +227,9 @@ Now the conversation begins!
 1) Your Highest Priority item is {dialogue["participant_info"]["mturk_agent_2"]["value2issue"]["High"]} and reason for this item is: {dialogue["participant_info"]["mturk_agent_2"]["value2reason"]["High"]}
 2) Your Medium Priority item is {dialogue["participant_info"]["mturk_agent_2"]["value2issue"]["Medium"]} and reason for this item is: {dialogue["participant_info"]["mturk_agent_2"]["value2reason"]["Medium"]}
 3) Your Lowest Priority item is {dialogue["participant_info"]["mturk_agent_2"]["value2issue"]["Low"]} and reason for this item is: {dialogue["participant_info"]["mturk_agent_2"]["value2reason"]["Low"]}
+4) You are a {dialogue["participant_info"]["mturk_agent_2"]["demographics"]["age"]} year old {dialogue["participant_info"]["mturk_agent_2"]["demographics"]["gender"]}, you are {dialogue["participant_info"]["mturk_agent_2"]["demographics"]["ethnicity"]} and your education level is {dialogue["participant_info"]["mturk_agent_2"]["demographics"]["education"]}.
+5) Your social value orientation is {dialogue["participant_info"]["mturk_agent_2"]["personality"]["svo"]}.
+6) Your big-five personality traits scores are as following(value between 1 and 7): extraversion: {dialogue["participant_info"]["mturk_agent_2"]["personality"]["big-five"]["extraversion"]}, agreeableness: {dialogue["participant_info"]["mturk_agent_2"]["personality"]["big-five"]["agreeableness"]}, conscientiousness: {dialogue["participant_info"]["mturk_agent_2"]["personality"]["big-five"]["conscientiousness"]}, emotional-stability: {dialogue["participant_info"]["mturk_agent_2"]["personality"]["big-five"]["emotional-stability"]}, openness-to-experiences: {dialogue["participant_info"]["mturk_agent_2"]["personality"]["big-five"]["openness-to-experiences"]}
 
 **AN EXAMPLE CONVERSATION**
 Player A: Hello! I'm looking forward to making a deal. Let's find something that works for both of us.
@@ -345,7 +351,7 @@ Now the conversation begins!
 
     all_dialogue_results.append(results_dict)
 
-    output_filename = "../results/negotiation_results_test_inital_message_march_Apr_10_no_persona.json"
+    output_filename = "../results/negotiation_results_test_inital_message_march_Apr_10_persona.json"
     with open(output_filename, "w", encoding="utf-8") as f:
         json.dump(all_dialogue_results, f, indent=2, ensure_ascii=False)
 

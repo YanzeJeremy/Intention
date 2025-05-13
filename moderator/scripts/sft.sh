@@ -1,0 +1,17 @@
+python ../code/sft.py \
+    --model_name_or_path meta-llama/Llama-3.1-8B-Instruct \
+    --dataset_name ../data/sft \
+    --learning_rate 2.0e-4 \
+    --num_train_epochs 2 \
+    --packing \
+    --per_device_train_batch_size 1 \
+    --gradient_accumulation_steps 16 \
+    --gradient_checkpointing \
+    --logging_steps 25 \
+    --eval_strategy steps \
+    --eval_steps 100 \
+    --use_peft \
+    --lora_r 32 \
+    --lora_alpha 16 \
+    --output_dir Llama3.1-8b-Instruct-May-12-with-context-sft \
+    --push_to_hub 

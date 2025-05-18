@@ -1,0 +1,3311 @@
+dialogue_id,dpo_proposal,original_proposal,sft_proposal
+0,"Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+
+I accept your deal.","I think your revised proposal is a great compromise. By taking 1 unit of Firewood, you'll still have enough for the night, and I'll have 2 units to prepare for the trails. It's a fair trade, and I appreciate your flexibility.
+
+Your revised proposal is also a good opportunity for me to clarify my priorities. I'd like to reiterate that my highest priority is Water, and I'd love to secure as much as possible for myself. With 1 unit of Water allocated to me, I'm happy to give up 1 unit of Water to you.
+
+Here's my revised proposal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+I think this is a fair and reasonable deal. What do you think?","You're trying to find a middle ground, and I respect that. I think 2 units of Water for me is a good compromise, and I'm willing to take the 1 unit of Water you're offering. As for the Food and Firewood, I think a 50/50 split is fair. That way, we both get what we need, and we're not overloading each other. So, I accept your deal. 
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1."
+1,"I reject your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.","That sounds like a great compromise. I think 2 Water and 2 Firewood is a fair deal for both of us. It's a good balance between our priorities, and we both get what we need to make our camping trip enjoyable.
+
+So, with that in mind, I'd like to propose the deal: I take 2 Water and 2 Firewood, and you take 2 Water and 2 Firewood. We'll both get what we need, and we can enjoy a warm and cozy campsite.
+
+Here's the deal in the required format:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 2,
+       Water: 2.
+
+What do you think?","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 1.
+
+I accept your deal!"
+2,"You're right, we need to rework the deal. I'll take 2 Food and you'll take 1. And I'll keep the Water, since that's my priority. Here's the revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 3.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 0.
+
+Let me know if this is more to your liking!","I see you're reevaluating the deal. I'm happy to make adjustments. Since we both need Water, let's revise the deal. How about we split the Water equally? I'll take 1 Water and you'll take 1 Water, and we can stick with the original Food and Firewood allocation. Here's the revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+Does this revised deal work for you?","I think that sounds like a great deal to me. We've got a good balance of supplies, and we've split everything fairly. I'm happy with the final numbers.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+I accept your deal!"
+3,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.","I'm glad we could come to an agreement that works for both of us. I'm really looking forward to our camping trip and enjoying some quality time with you.
+
+Just to confirm, I'll repeat the agreed deal in the format you requested:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+
+Let's enjoy our camping trip and make the most of our time together!","That sounds perfect. To confirm, I'll take 2 units of water and 2 units of food, and you'll take 1 unit of water and 2 units of food, and we'll both have 1 unit of firewood. I'll even throw in a few extra snacks, just in case. Let's finalize this deal. Submit-Deal:
+
+Items I get:
+       Food: 3,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 2,
+       Water: 1.
+
+Let me know if that's okay with you!"
+4,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.","I think we're getting very close to a deal now. Your revised proposal looks great to me. It seems like we're both getting what we need, and we're meeting in the middle on Firewood.
+
+I'm particularly happy with the amount of Water you're offering, as I was worried that I might not get enough. And the amount of Food you're offering is just right - I don't need too much, but I do need a bit more than just a snack.
+
+With this proposal, I think we've both got a good balance of needs met. I'm happy to accept your deal!
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+
+Let's shake on it and make it official!","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 0."
+5,"Submit-Deal:
+ Items I get:
+     Food: 2,
+     Firewood: 0,
+     Water: 2.
+ Items you get:
+     Food: 1,
+     Firewood: 3,
+     Water: 1.","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 2.
+
+Now that we have our initial deal, let's see how we can adjust it to our needs. I've been thinking, and I realize that I could use a bit more Firewood for our campsite. Maybe we can swap out one of the Water units for another Firewood unit?
+
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+What do you think?","I didn't think about the smoke issue. That's really considerate of you. 2 firewood and 2 food and 1 water sounds like a great deal to me. Let's finalize the deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2."
+6,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 3.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 0.","I agree that we've effectively maximized our shares with the deal we've agreed upon. It's great that we were able to work together to get what we needed.
+
+I think you're right, we can consider this the end of our negotiation. I'm glad we were able to come to a mutually beneficial agreement. Now that we've settled our resources, I'm looking forward to enjoying the rest of our camping trip together.
+
+Let's finalize the deal and move on to the next step. I'll submit our agreement as per the rules:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 0.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 3.
+
+I accept your deal.","I accept your deal.
+
+Submit-Deal:
+
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 2.
+Items you get:
+   Food: 1,
+   Firewood: 2,
+   Water: 1.
+
+Looks like we've got a deal!"
+7,"I think there's been a mix-up! According to our agreement, I should get 1 Food, 3 Firewood, and 1 Water, while you get 2 Food, 3 Firewood, and 2 Water. Let's correct that.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.","I appreciate your prompt submission of the deal. It looks like we've finalized the agreement.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 3.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 0.
+
+Now that we have a deal, I think we can both enjoy our camping trip with the supplies we need. If you'll excuse me, I'm going to go gather the rest of the supplies and get everything ready. Have a great trip!","Let's start again from the beginning. Here's the corrected deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 2.
+
+Deal is done!
+
+I think I made a mistake again, and we ended up with the same incorrect deal. Let's try again.
+
+You give me one food item, and I give you one water bottle. Here's the revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 0.
+
+Is this the correct deal?"
+8,"I'm glad we were able to come to an agreement. It looks like we've both got our priorities covered. Here's the finalized deal:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 3,
+       Water: 2.
+Items you get:
+       Food: 3,
+       Firewood: 0,
+       Water: 1.
+
+I accept your deal!","I'm glad we could come to an agreement. It's always nice to have some extra food and firewood on hand.
+
+Since we've reached a deal, I'll submit it and we can officially end the negotiation.
+
+Submit-Deal:
+Items I get:
+   Food: 1,
+   Firewood: 1,
+   Water: 0.
+Items you get:
+   Food: 2,
+   Firewood: 2,
+   Water: 0.
+
+Let's finalize the deal and get ready for our camping trip!","I think there's been a mistake. You said you'd take 1 package of food, but in your submit deal, you said 1 package of food, which means I'll only get 2 packages of food. And you said you'd take 2 packages of firewood, but in your submit deal, you said 2 packages of firewood, which means I'll only get 1 package of firewood.
+
+Let's try again. Since we both need to get 3 units of each item, I'll suggest a new deal.
+
+Submit-Deal:
+Items I get:
+     Food: 1,
+     Firewood: 1,
+     Water: 1.
+Items you get:
+     Food: 2,
+     Firewood: 2,
+     Water: 0.
+
+Does this look correct to you?"
+9,"I think we can make that work. I'll accept your deal. Here's the deal in the required format:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.","I love it when negotiations get creative!
+
+I think your revised proposal is a great compromise. By sticking with the original 1 unit of Firewood, you're still getting what you need, and I'm still getting what I need.
+
+I accept your revised proposal. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+Let's finalize this deal and make our camping trip a success!","Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal. It's official! Now that we have our supplies sorted, I think we're both set for a great camping trip."
+10,"Submit-Deal:
+
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.","Having enough water is crucial for hiking, and I'm glad you're prioritizing that. However, I have to say that I'm a bit surprised by your initial proposal.
+
+While it's great that you're willing to share water, I'm not sure I'm comfortable with giving up all the Food and Firewood. As you mentioned, those are also essential items, and I'd like to make sure I have enough for my own needs.
+
+I'd like to propose a counteroffer. Instead of taking all the Food and Firewood, I'll take 1 unit of Food and 2 units of Firewood. This way, we can both get a decent amount of each item, and we'll have a more balanced deal.
+
+Here's my revised proposal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+
+What do you think?","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1."
+11,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.","I think your counteroffer is a great compromise. Splitting the Food seems like a fair way to go, and I appreciate your willingness to meet me in the middle.
+
+I'll accept your proposal. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+
+Let's finalize this deal and make sure we both get what we need for our trip!","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+
+Looks like we've got our camping supplies sorted out. Thanks for the great deal!"
+12,"Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.","I think we've reached a great agreement. Your deal looks good to me, and I'm happy to confirm.
+
+Submit-Deal:
+
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+I accept your deal! We've reached a mutually beneficial agreement, and I'm glad we could work together to make sure you've got what you need for the party. Now, let's get the party started (and hopefully, the rain will pass)!","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 0."
+13,"Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 3.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 0.","I think your revised proposal is more reasonable, considering your family gathering and my need for Firewood. I'm willing to give you the 1 unit of Firewood, but I'd like to make sure I get enough Water to cover my hiking plans.
+
+I'll stick with my original proposal for the Water, taking 1 unit, and I'll also take 1 unit of Food, as we previously agreed. Here's my final revised proposal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+
+Let me know if this revised proposal works for you!","I think there's been a small mistake. I remember we agreed that I would get 2 Food, and you would get 1 Food. So, the correct deal should be:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 3.
+
+Does that look right to you?"
+14,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.","I'm glad we could come to an agreement. Your deal looks great to me. I'll summarize it to make sure we're both on the same page:
+
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+I think this deal is fair and meets both of our needs. I'm looking forward to enjoying the warm fire and having enough water for our stay. Well done!
+
+Submit-Deal: Accepted!
+
+Now that we have our deal, let's get settled in and enjoy our camping trip!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2."
+15,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+
+I'm glad we could come to a mutually beneficial agreement. It was a pleasure negotiating with you too! Now, let's get settled in and enjoy the great outdoors! Thanks again for the deal!","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.","I'm glad we could come to an agreement that works for both of us. I think it's a fair deal too.
+
+Here's the deal in the required format:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+I'm glad we could work together to find a solution that meets our needs. Let's hope the rest of our camping trip is just as enjoyable!"
+16,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+   Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.","I like the way you think, neighbor! That sounds like a mighty fine deal to me. We're both gettin' what we need, and we're not leavin' any resources behind. I reckon 1 unit of Water and 1 unit of Firewood for me, and 1 unit of Water and 2 units of Firewood for you is a fair trade.
+
+Let's finalize the deal then. I'll submit my proposal:
+
+Submit-Deal:
+Items I get:
+   Food: 3,
+   Firewood: 2,
+   Water: 1.
+Items you get:
+   Food: 0,
+   Firewood: 1,
+   Water: 2.
+
+What do you say, partner?","You got it right this time! I'm glad we could work out the firewood issue.
+
+And yes, your final deal looks perfect:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 0.
+
+I accept your deal! It looks like we've got a good balance of food, firewood, and water for our camping trip."
+17,"Submit-Deal:
+ Items I get:
+       Food: 0,
+       Firewood: 1,
+       Water: 1.
+ Items you get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2.","I appreciate your attention to detail and willingness to revise the deal.
+
+Your revised proposal sounds fair to me. I can definitely use the extra Firewood for warmth and cooking. As for the Food, I can make do with half a package, and I'm sure I'll find ways to make it last.
+
+I accept your revised deal!
+
+Submit-Deal:
+Items I get:
+       Food: 1.5,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1.5,
+       Firewood: 0,
+       Water: 1.","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1."
+19,"Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 1,
+       Water: 3.
+Items you get:
+       Food: 3,
+       Firewood: 2,
+       Water: 1.","I think there's been a mistake. You said you'd be willing to give me 2 water bottles, but in your final deal, you only gave me 1 water bottle. And you also said you'd give me 2 Firewood packages, but in your final deal, you only gave me 1 Firewood package.
+
+I'm happy with the deal we agreed on earlier, but I think there's a discrepancy in the final submission. To clarify, I think the correct final deal should be:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 1.
+
+Please let me know if this is correct, and we can finalize the agreement.","I think we've got a deal. 1 unit of Food and 1 unit of Firewood for the water bottle is a fair trade. I'm glad we could work out a mutually beneficial agreement. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+
+How does that sound?"
+20,"Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 3.
+Items you get:
+       Food: 0,
+       Firewood: 2,
+       Water: 0.
+
+I accept your deal.","I'm glad I could sweeten the deal with the bonus offer.
+
+And I completely agree, having a good supply of Food is essential, especially when you're camping with kids. It's always nice to have some extras on hand.
+
+Now that we've reached an agreement, let's indeed shake on it and make it official.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 0.
+
+I accept your deal!","That sounds like a great deal! I'm glad we could come to an agreement. Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 1."
+21,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.","I reject your deal.
+
+Submit-Deal:
+ Items I get:
+       Food: 3,
+       Firewood: 1,
+       Water: 0.
+ Items you get:
+       Food: 0,
+       Firewood: 2,
+       Water: 3.","I accept your deal.
+
+Submit-Deal:
+Items I get:
+   Food: 1,
+   Firewood: 2,
+   Water: 2.
+
+Items you get:
+   Food: 2,
+   Firewood: 3,
+   Water: 1.
+
+Can't wait for our camping trip and some quality time in nature!"
+22,"Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 3.","I'm really looking forward to our camping trip too. It's great that we were able to work out a good deal on the essential items. I think we'll both have a fantastic time exploring the outdoors and enjoying each other's company.
+
+See you soon at the general store! I'll be there to meet you and pick out a first aid kit. Don't forget to bring your list of items you'd like to pick up, so we can make sure to get everything we need.
+
+Oh, and one more thing - I'll be submitting a final deal to confirm our agreement on the water, food, and firewood. Here it is:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 3.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 0.
+
+Let me know if this looks good to you!","I'm glad we were able to come to an agreement. It's always great to share and help out a fellow camper.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal. Let's get ready for a fantastic camping trip!"
+23,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.","I think there's a small mistake in your revised deal. I have 2 Firewood, but I should only have 1. And similarly, you have 1 Water, but you should only have 0.
+
+Let's correct that and finalize the deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 0.
+
+I'm looking forward to setting up camp and making some amazing memories with you!","Submit-Deal:
+
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 2.
+
+I accept your deal."
+24,"I accept your deal.
+
+Submit-Deal:
+ Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+ Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.","I'm glad we could come to an agreement that works for both of us. Your deal sounds perfect to me.
+
+I accept your deal. Here's the updated agreement:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+
+I'm looking forward to our camping trip, and I think we'll have a great time together. Thanks for being a fair and reasonable negotiator!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1."
+25,"Submit-Deal:
+ Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+   Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.","I think there's still a mistake. The correct deal was:
+
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+So, the correct submission should be:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+Let me try again with the correct deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+I'm glad we could get the deal sorted out, and I'm really looking forward to our camping trip together!","I think we've got a good starting point too. I'm happy with the revised deal. Having 2 units of water will definitely help me out for the trip, and I'm willing to sacrifice some firewood to make sure you have enough for your priority.
+
+I accept your deal! Submit-Deal:
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 2.
+Items you get:
+   Food: 1,
+   Firewood: 2,
+   Water: 0."
+26,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 3.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 0.","Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+I accept your deal.","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 3,
+       Firewood: 1,
+       Water: 2.
+
+Deal is done! Let's get the firewood and water to the campsite and make sure everyone has what they need."
+28,"Submit-Deal:
+ Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+ Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.","I'm glad we could come to an agreement that works for both of us.
+
+Yes, I'm more than happy to confirm that we're both comfortable with the arrangement. I think we've found a good balance between our needs, and I'm confident that we'll both be able to enjoy our camping trip.
+
+So, to confirm, the deal is:
+
+* You get 2 units of Water
+* You get 2 units of Food
+* I get 1 unit of Firewood
+
+And, as a result, I'll get 1 unit of Food, 2 units of Water, and 2 units of Firewood.
+
+Sounds good to me! I accept your proposal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 0.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1."
+29,"Submit-Deal:
+ Items I get:
+     Food: 1,
+     Firewood: 2,
+     Water: 2.
+ Items you get:
+     Food: 2,
+     Firewood: 1,
+     Water: 1.
+
+(I'm assuming this is the deal we agreed on)","You're a foodie, huh? Well, I'm happy to oblige. With 1 unit of Firewood and 1 unit of Water left, I'll take those to ensure I have a good supply for the night.
+
+Items I get:
+   Food: 0,
+   Firewood: 1,
+   Water: 1.
+Items you get:
+   Food: 3,
+   Firewood: 2,
+   Water: 2.
+
+Now, I think we've got a good balance of supplies. But I'm still missing some Food to sustain myself. Can I take 2 Food and you take 1 Food? That way, I'll have enough to last me for a while, and you'll have some snacks to enjoy as well.
+
+Submit-Deal:
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 1.
+Items you get:
+   Food: 1,
+   Firewood: 2,
+   Water: 2.","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 1."
+30,"I'm glad we could come to a mutually beneficial agreement. To confirm, here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+
+Does that sound good to you?","Wait a minute... I think there's been a mistake. You mentioned earlier that Food is your lowest priority, and you're willing to give me some Food in exchange for the Water and Firewood. But in your proposal, you're offering me 3 units of Food, which seems excessive.
+
+I think we can stick with the original agreement we made, which was 1 unit of Water for 2 units of Firewood. Let's finalize that deal instead. Here's the revised agreement:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 3,
+       Firewood: 1,
+       Water: 2.
+
+Is that acceptable to you?","I'm glad we were able to come to an agreement. I'll make sure to follow the format from now on.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 0.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 1.
+
+I accept your deal."
+32,"😊
+
+Submit-Deal:
+
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 1.
+Items you get:
+   Food: 1,
+   Firewood: 2,
+   Water: 2.
+
+Let's shake on it and make it official! I accept your deal!","I'm glad we could come to an agreement. I think we've both gotten what we needed.
+
+Submit-Deal:
+
+Items I get:
+       Food: 3,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 2,
+       Water: 2.
+
+Looks like we've got a deal! Let's shake on it and make it official.","I'm glad we could come to an agreement. 3 Water is definitely a priority for me, and I'm happy to give up 1 Water to make sure you've got enough for your team.
+
+Submit-Deal:
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 2.
+Items you get:
+   Food: 1,
+   Firewood: 2,
+   Water: 1.
+
+I think we've got a good deal, and I'm looking forward to a comfortable camping trip with my team."
+33,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 3.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 3.","I think there's been a slight misunderstanding. We agreed on allocating all 3 units of Firewood to you, not just 1 unit. Remember, I mentioned earlier that I need Firewood for my campsite, and we discussed that you could take all 3 units as part of the deal.
+
+So, to correct the deal, I'd like to re-submit it with the correct allocation of Firewood:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+
+I hope this clears up any confusion, and we can finalize the deal.","I'd like to propose a deal where I get 2 units of water, 2 units of food, and 1 unit of firewood, and you get 1 unit of water, 1 unit of food, and 2 units of firewood. That way, we both get what we need and we're splitting the items fairly. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+Let me know if that's okay with you!"
+34,"I accept your deal. 
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 0.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 3.","I see what you mean about the original deal leaving you with 0 Water. Your revised counteroffer is a great compromise, and I think we've got a deal.
+
+I like that you're willing to give me 1 unit of Water instead of 0, which shows that you're still willing to make a trade. And I'm happy with the 2 units of Firewood, which is more than I was originally hoping for.
+
+Here's the final deal:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 3,
+       Firewood: 1,
+       Water: 2.
+
+I accept your deal!","I think we've got a deal. I accept your offer. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+
+Let me just confirm that we've got 3 units of each item in total..."
+35,"I think we accidentally swapped the items. Let's try again.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+Your turn!","Sounds like we've got a solid agreement. I'm glad we could work out a deal that works for both of us. Now that we've got our supplies sorted, I think we can both relax and enjoy the rest of our camping trip.
+
+Shake on it, then! *extends hand for a handshake*
+
+By the way, I think I've got all the food packages I need, so I'll just finalize the food deal. Here's the updated deal:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 2.
+
+Let me know if this looks good to you!","I think we've found a great compromise. I'm happy to accept your proposal. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+
+I accept your deal."
+36,"That sounds like a good deal. I accept your deal.
+
+Submit-Deal:
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 1.
+Items you get:
+   Food: 1,
+   Firewood: 2,
+   Water: 2.","Food is a top priority for me as well. I've been planning a big hike for tomorrow, and I'll need plenty of energy to make it through. With that in mind, I'll start by proposing a deal. 
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 1.
+
+Your turn!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1."
+37,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.","I'm glad we were able to come to an agreement that works for both of us. It's always a bit of a challenge to negotiate, but I think we found a good balance.
+
+I'm looking forward to our camping trip now, and I'm excited to roast some marshmallows and enjoy a hearty dinner with plenty of water to stay hydrated. Thanks for being a good sport and working with me to find a deal that works for both of us!
+
+Submit-Deal:
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 2.
+Items you get:
+   Food: 1,
+   Firewood: 3,
+   Water: 1.
+
+Is this a deal you're willing to accept?","I think there's a small issue with the deal. As I mentioned earlier, I was thinking of taking 2 units of water, and you were thinking of taking 1 unit of water. But in your deal, you're saying I'll get 1 unit of water and you'll get 2 units. That doesn't quite balance out.
+
+Let me try to rephrase it. Here's a revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1.5,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 1.5,
+       Firewood: 1,
+       Water: 1.
+
+Does that sound more fair to you?"
+38,"Submit-Deal:
+
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 0.
+
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 3.","Energy-rich snacks are a must for any hiker, and I'm happy to share with you. The 2 packages of energy bars and 1 package of trail mix sound like a great haul. As for the remaining 2 packages of food, I'd be more than happy to split them with you. That way, we can both get a decent amount of food to last us throughout our trip.
+
+Let's finalize the deal: I'll get 2 Water bottles (I need to stay hydrated on my hikes), 2 packages of food (we've already agreed on the energy bars and trail mix), and 1 log of Firewood (as per our earlier agreement). You'll get 1 Water bottle, 2 packages of food, and 2 logs of Firewood. Sounds like a great deal to me!
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.","That sounds like a great compromise. I really do need that extra food, and 1 food is better than nothing. And I appreciate your willingness to help me out with the water. I think we can make it work. Let's finalize the deal. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+What do you think?"
+39,"Your deal looks perfect. I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.","I think your summary looks great. It seems like we've found a good balance between our needs. I'm happy with the 2 units of Food, and I appreciate that you're not giving up all your Firewood. The 1 unit of Firewood we'll split will be enough for a cozy night's sleep.
+
+As for the Water, I think 2 units is a good amount for me, and it's nice that we can both have some for our needs.
+
+I accept your deal! Here's the final agreement:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+
+I'm looking forward to our camping trip and enjoying our time together in the great outdoors!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+
+I accept your deal!"
+40,"That sounds like a fair deal to me. I can definitely give you 2 units of firewood, and 1 unit of food should be enough for my family to get by. So, the deal would be:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+How does that sound?","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.","Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal!"
+41,"Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.","I can understand your concern about the snacks, and I'm glad we're having a good conversation about it.
+
+I think your revised proposal is a great idea. By taking 1 food and 1 water, you're still getting some of the resources you need, and I'm getting more water than I initially suggested. It's a fair trade, and I think we can both be happy with this arrangement.
+
+So, I accept your proposal. Here's the deal:
+
+Submit-Deal:
+Items I get:
+   Food: 1,
+   Firewood: 3,
+   Water: 2.
+Items you get:
+   Food: 2,
+   Firewood: 0,
+   Water: 1.
+
+Let's finalize this and make sure we have everything we need for our stay.","Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2."
+42,"I'm glad we could come to a mutually beneficial agreement. I'm looking forward to having some extra food and wood for my safety. And I'm sure our last-minute guests will appreciate the extra food.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 3.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 0.
+
+Let's shake on it and make it official!","That sounds like a much more balanced and fair deal to me. I think having 2 units of Water will make a big difference in my ability to stay hydrated and comfortable during my hikes.
+
+With that deal, I think we've covered all our bases. You've got your Firewood, and I've got my Water. And, of course, we've both got some Food to fall back on in case of emergencies.
+
+I think we've made a great deal, and I'm happy to accept your proposal. Here's the deal in the format we agreed on:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+Let's shake on it and make it official!","That looks correct. We're both getting what we need, and the extra items are being split fairly.
+
+Yes, you can go ahead and submit the deal. I accept it!
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 3.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2."
+43,"That sounds like a perfect deal to me. Here's the deal in the required format:
+
+Submit-Deal:
+Items I get:
+         Food: 3,
+         Firewood: 3,
+         Water: 1.
+Items you get:
+         Food: 0,
+         Firewood: 0,
+         Water: 2.
+
+Let me know if you're okay with this deal!","Deal!
+
+I'm glad we could come to an agreement that works for both of us. I think our deal is fair and reasonable, and I'm looking forward to a great camping trip.
+
+Thanks again for being flexible and willing to compromise. I appreciate it!
+
+Submit-Deal:
+Items I get:
+       Firewood: 2,
+       Water: 1,
+       Food: 3.
+Items you get:
+       Firewood: 1,
+       Water: 2,
+       Food: 0.
+
+I'm glad we could shake hands on this deal. Let's make some great memories on this camping trip!
+
+(And I'll make sure to bring plenty of food for our friends!)","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1.5,
+       Water: 2.
+
+I accept your deal."
+44,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.","I'm glad we could come to an agreement. It's great to have a solid foundation for our trip, and I'm excited to start enjoying the beautiful outdoors with you.
+
+I must say, I'm a bit relieved that we were able to split the remaining units fairly evenly. It's always a bit tricky to negotiate when you have different priorities, but I think we found a good balance.
+
+Now that we've finalized our deal, I'll go ahead and submit the agreement. Here's the confirmation:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+Let me know if everything looks good to you!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1.5,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1.5,
+       Water: 1.
+
+I accept your deal!"
+45,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 3.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 0.","Yes, that sounds perfect to me. I think we've found a good balance that meets both of our needs. I'll confirm the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1.5,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1.5,
+       Water: 2.
+
+I accept your deal!","Let's confirm the deal. You're getting 1 unit of Food, 1 unit of Firewood, and 2 units of Water. I'm getting 2 units of Food, 2 units of Firewood, and 1 unit of Water.
+
+Yes, that looks correct. I accept your deal!
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2."
+46,"You're right, we do need to shake hands on a deal.
+
+And I like your counteroffer, it's a good compromise. I accept your revised deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+
+I accept your deal.","I think that sounds perfect. We've both gotten what we need, and we've found a good balance between our priorities. I'm glad we were able to come to an agreement that works for both of us.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+
+I accept your revised deal!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+I accept your deal!"
+47,"I'm glad we could come to an agreement. To confirm, here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 3,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 0,
+       Water: 1.
+
+Does that sound right to you?","It was a pleasure negotiating with you, and I'm glad we could come to a mutually beneficial agreement.
+
+Here's the corrected deal in the format you requested:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 3,
+       Firewood: 0,
+       Water: 2.
+
+I accept your deal! I'm looking forward to a wonderful camping trip and sharing some great stories around the campfire with you. Let's make some wonderful memories together!","It was great meeting you too! I'm looking forward to our campfire gathering tonight. S'mores are a must-have, so don't forget to bring plenty of marshmallows.
+
+Have a great rest of your day, and I'll see you tonight by the campfire. It's going to be a great night, I can feel it!
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 3.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 0."
+48,"Submit-Deal:
+ Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 0.
+ Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 3.
+
+Let's make it official!","I'm glad we could come to an agreement that works for both of us. It's always a challenge to find a balance when sharing limited resources.
+
+Thank you for being flexible and accommodating. I'm looking forward to a comfortable and enjoyable camping trip.
+
+Here's the final deal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+I accept your deal!","It looks like we've reached a mutually beneficial agreement. Let's finalize the deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal!"
+49,"Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 2.","I think we've finally reached a mutually beneficial agreement. I'm happy with the 2 food and 2 water, as it meets my priorities. And I'm glad I could help you get the firewood you were looking for. I think we've found a fair balance that works for both of us. I'll submit the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+Let's shake on it and make it official!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal."
+50,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 2.","The deal is:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+
+I'm glad we could come to a mutually beneficial agreement. I think this deal works well for both of us, and we'll both be able to enjoy our camping trip with what we need.","I think we've found a deal that works for both of us. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+
+What do you say?"
+51,"You too! It was great meeting you. Have a great camping trip and I hope our paths cross again soon! 
+
+Submit-Deal:
+ Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+ Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.","I've received your final deal, and it looks like we've both secured what we needed. I'm looking forward to swapping stories and sharing some s'mores with you at the campsite.
+
+It was great negotiating with you, and I think we made a fair deal. I'll see you soon, and let's make some unforgettable memories together!
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 1.
+
+Let's get ready for an amazing camping trip!","Submit-Deal:
+
+Items I get:
+       Water: 1,
+       Food: 2,
+       Firewood: 1.
+Items you get:
+       Water: 2,
+       Food: 1,
+       Firewood: 2.
+
+I accept your deal."
+52,"That sounds perfect. I'll take the extra water and all the firewood. I think we've got a deal. Here's the formal proposal:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 3,
+       Water: 3.
+Items you get:
+       Food: 3,
+       Firewood: 0,
+       Water: 0.
+
+How does that sound?","I'm glad we could come to an agreement on all the supplies. It's always a good feeling to know that we've got everything we need to make our camping trip a success.
+
+And I love the way you phrased it - ""I accept your deal!"" It's always nice to have a clear and concise way of confirming a agreement.
+
+So, with that said, I'll repeat the agreed-upon deal in the same format:
+
+Submit-Deal:
+Items I get:
+   Food: 1,
+   Firewood: 2,
+   Water: 1.
+Items you get:
+   Food: 2,
+   Firewood: 1,
+   Water: 2.
+
+I accept your deal!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal!"
+53,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.","I accept your deal.
+
+However, I notice that you listed ""Water: 1"" twice. I think you meant to say ""Food: 2"" instead. If that's correct, I'll make the correction.
+
+Here's the corrected deal:
+
+Submit-Deal:
+Items I get:
+       Firewood: 1,
+       Water: 1,
+       Food: 2,
+       Water: 0.
+
+Items you get:
+       Firewood: 2,
+       Water: 0,
+       Food: 1.
+
+Looks good to me!","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 0."
+54,"I think that's a great idea, 1 water for you and 1 water for me is a better deal than the original one. Let's try again. 
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 2.","I'm glad we could work out a deal that works for both of us. I think 2 units of Firewood and 2 units of Water for you, and 1 unit of Firewood and 2 units of Water for me is a fair compromise.
+
+I'm looking forward to getting my hands on that extra Water for my hikes, and I'm sure you'll appreciate the extra Firewood for the family gathering.
+
+Let's finalize the deal then. Here's the proposal in the required format:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+I accept your deal!","I think that sounds like a great deal, thank you for being so understanding and flexible. I'm really glad we could come to an agreement. To confirm, I'll submit the deal:
+
+ Submit-Deal:
+ Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 0.
+ Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+
+Let me know if that's okay with you!"
+55,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.","I see what you're doing there. You're trying to get more Water, but you're also giving up a bit of Firewood. I appreciate the offer, but I'm still a bit concerned about the Water. I know you need it for your hiking and hygiene, but I also need it to stay hydrated.
+
+However, I'm willing to make a compromise. Since you're giving up Firewood, I'd like to propose a counteroffer. I'll stick with the original deal: 1 unit of Firewood and 1 unit of Water. I'll keep my Food allocation at 1 unit.
+
+Here's the revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+
+What do you think?","Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+I accept your deal!"
+56,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.","You're a shrewd negotiator, I like that. I have to admit, having three Firewood packages would make a big difference for me. I was worried about running out of fuel for the night, and it would be great to have some extra for the next day's campfire.
+
+I think your proposal is a good one, and I'm willing to accept it. You'll get everything you need for your hike tomorrow, and I'll have some extra Firewood to keep me warm and comfortable. Let's finalize the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 0.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+
+I accept your deal!","I accept your deal. Here's the finalized agreement:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+
+Let's get these items and make our camping trip more enjoyable!"
+58,"Submit-Deal:
+ Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 1.
+ Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 2.","I accept your deal.
+
+(I'm glad we were able to come to an agreement. Here's the final deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.)
+
+Let's finalize our camping arrangements!","Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1."
+59,"Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 1,
+       Water: 3.
+Items you get:
+       Food: 3,
+       Firewood: 2,
+       Water: 1.","I completely understand your concerns about the water. I'd hate for you to be stuck without enough for your journey.
+
+As for the food, I think your revised proposal is a great compromise. I could definitely use the extra firewood, and having some extra food would be a big help for me too.
+
+I accept your revised proposal. Here's the updated deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+Let's finalize this and move forward with getting the other essential items. How about we discuss the firewood and water next?","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2."
+60,"Submit-Deal:
+ Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+ Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+
+I accept your deal.","It's great to hear that you're looking forward to enjoying the rest of our trip together. I completely agree that there's something special about being in nature, and having some company makes it even more enjoyable.
+
+I'm glad we could find common ground and make a deal that works for both of us. It's always a pleasure to negotiate with someone who is fair and willing to listen.
+
+Now that we've submitted our final deal, I think we can both relax and enjoy the rest of our trip together. Let's make some s'mores, sit back, and take in the peaceful surroundings. I'm excited to see what the rest of our trip has in store for us.
+
+Thanks again for a great negotiation, and I'm glad we could come to an agreement. I'm looking forward to a wonderful trip with a new friend.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 3.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 0.
+
+I accept your deal.","I accept your deal. Here's the deal we've agreed on:
+
+ Submit-Deal:
+ Items I get:
+     Water: 1,
+     Firewood: 1,
+     Food: 3 - 1 = 2.
+ Items you get:
+     Water: 2,
+     Firewood: 2,
+     Food: 3 - 2 = 1.
+
+Let's finalize the deal!"
+61,"You're right, I did say 3 food supplies, but I think I was thinking of the water. And you're right again, 2 food supplies and 2 waters sounds like a fair compromise.
+
+Yes, that sounds like a great deal to me! I'll accept your revised deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+
+I'm glad we could come to an agreement!","I understand your concerns about the Firewood, and I appreciate your willingness to compromise. Your counteroffer is a good one, and I think we can work with it.
+
+However, I still need to prioritize my own needs, especially when it comes to Water. As a hiker, I also need to stay hydrated, and having 2 units of Water would be a big help.
+
+Let me propose a revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+This way, we both get a good balance of our needs, and I get a bit more Water to stay hydrated. What do you think?","I think we're getting close to a deal. I like the way you're thinking, and I'm willing to compromise on the water supply. Taking 1 unit of water and 2 units of water is a fair trade, considering how much water we have available.
+
+And I have to say, I'm impressed by your negotiation skills too. You're not backing down, and you're willing to make concessions to get a good deal. I think we're both getting a fair deal here.
+
+So, I think we have a deal. I'll take 2 units of food, and you'll take 1 unit of food, in return for 1 unit of water and 2 units of water. Let's finalize the deal and make sure we're both getting what we need.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 3,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 0,
+       Water: 1.
+
+How does that sound?"
+62,"Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.","I think I've got you right where I want you. Since you're taking the last food item, I'll just take the remaining water bottle from you. That way, I'll get the water I need and you'll get... well, not much, but you'll have all the firewood.
+
+Here's my revised proposal:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+
+Your turn!","Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 1.
+
+I accept your deal!"
+63,"Wait, I think there's been a misunderstanding. You offered me 3 water, and I agreed, so I should have 3 water, not 0. And I also agreed to 2 food, not 1.
+
+Here's the corrected deal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 3,
+       Water: 3.
+Items you get:
+       Food: 1,
+       Firewood: 0,
+       Water: 0.","I see what you mean about the totals not adding up. Your revised proposal looks great, and I think it's a fair adjustment. Having 1 unit of firewood for you and 2 units of water for you will definitely ensure you get what you need.
+
+As for me, I'm okay with giving up the food. I was really looking forward to having some extra snacks, but I can always buy some more at the campsite.
+
+So, I think our revised proposal is a great deal. I accept your revised deal.
+
+Submit-Deal:
+Items I get:
+       Firewood: 1,
+       Water: 2,
+       Food: 0.
+Items you get:
+       Firewood: 2,
+       Water: 1,
+       Food: 2.
+
+Let's finalize the deal and get our gear!","It looks like we accidentally swapped the items. Let's try again.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+Let's shake on it and make it official!"
+64,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.","Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+I accept your deal.","It looks like we've reached a fair deal. I accept your offer. Here's the deal in a formal format:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+Let's shake on it and get ready for our camping trip!"
+65,"Submit-Deal:
+
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.","I think the revised proposal is a good deal for both of us. You've got a sufficient supply of Water for your hiking needs, and I've got more Firewood than I needed. The Food allocation is also fair, with both of us getting a decent supply.
+
+I'm happy with the outcome, and I think we've reached a mutually beneficial agreement. It was a pleasure negotiating with you, and I hope we can do it again in the future.
+
+Let's finalize the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 3,
+       Firewood: 1,
+       Water: 2.
+
+I accept your deal!","Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 2."
+67,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+   Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+I accept your deal.","I think we've reached a great agreement. I like how we both get what we need, and we're both happy with the trade.
+
+Your deal looks good to me. I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 3.
+
+Let's finalize the deal and get ready for our camping trip!","I think I can live with that. I really do need the extra firewood to keep the fire going, especially on chilly nights. And having 2 food is better than none, I suppose. Yeah, that sounds like a good deal to me. 
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1."
+68,"Submit-Deal:
+ Items I get:
+     Food: 1,
+     Firewood: 2,
+     Water: 1.
+ Items you get:
+     Food: 2,
+     Firewood: 1,
+     Water: 2.","Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 3,
+       Water: 3.
+Items you get:
+       Food: 1,
+       Firewood: 0,
+       Water: 0.","That's correct, we have a full allocation. I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 2."
+69,"Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.","I'm glad we were able to come to a mutually beneficial agreement.
+
+Here's the deal in the required format:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal.","I'm glad we could come to an agreement. Here's the deal in the correct format:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+Let me know if that's correct!"
+71,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 2.
+
+Let's finalize the shopping and get ready for our camping trip!","I think we've made some great deals, and now we can both focus on having a fantastic time on our camping trip.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+I agree, let's make some memories! I'm looking forward to our camping trip and all the adventures we'll have together. Thanks again for being a great negotiating partner!","I accept your deal too.
+
+Submit-Deal:
+Items I get:
+   Food: 3,
+   Firewood: 1,
+   Water: 2.
+Items you get:
+   Food: 0,
+   Firewood: 2,
+   Water: 1.
+
+Looks like we've got all our bases covered. Now, let's get packing and enjoy our camping trip!"
+72,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 0,
+       Firewood: 0,
+       Water: 2.
+
+Have a great trip and enjoy the fire!","Giving up 1 Water package is a fair trade for the extra Food packages. I think we've found a good balance.
+
+However, I still have a need for Firewood, and I'd like to get at least 1 more package. Since you've already taken 2 packages, I'll take the last one.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+What do you think?","I accept your deal. Here's the confirmation:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+
+Looks like we've got a deal! Now, let's get our gear and enjoy the great outdoors!"
+73,"I reject your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 3.","I accept the revised deal, and I'm excited to confirm it in the exact format you requested:
+
+Submit-Deal:
+Items I get:
+       Water: 2,
+       Firewood: 1,
+       Food: 1.
+Items you get:
+       Water: 1,
+       Firewood: 1,
+       Food: 1.
+
+This deal looks perfect to me, and I'm looking forward to a fantastic camping trip with you! Let's shake on it and make it official.","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 3,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 0,
+       Water: 0."
+74,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.","It sounds like you're planning a family-friendly trip. I'm happy to help you out.
+
+As for me, I'll need some water for my own hydration and a bit of firewood for cooking. I'll also appreciate some food to keep my energy up.
+
+Here's a proposal:
+
+I'll take 1 package of food, 1 jug of water, and 1 bundle of firewood. This way, we'll each get a little something to make our stay more comfortable.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 2.
+
+What do you think?","I'm glad we could work out a deal that suits both of us. I think we've got a good balance of food, water, and firewood.
+
+I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+
+Thanks for being a good negotiator!"
+75,"Looks like we both got what we needed. I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 3,
+       Firewood: 1,
+       Water: 3.
+
+Let's enjoy our camping trip!","I think we've got a great deal going on here. I'm glad we could come to a mutually beneficial agreement.
+
+Just to confirm, I'll summarize the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Water: 2,
+       Firewood: 1.
+Items you get:
+       Food: 1,
+       Water: 2,
+       Firewood: 2.
+
+Does that sound right to you?","I think you made a mistake in your summary. We can't split the food 50/50 because there are only 3 units of food available. We have to allocate them in whole numbers.
+
+Let's try again. Since we're splitting the food 50/50, that means we'll each get 1.5 units of food. But since we can't have a fraction of a unit, we'll have to allocate the food as 1 unit to each of us, and then we'll have 1 unit left over. We can either keep the extra unit or give it to each other.
+
+Here's my revised summary:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+
+I hope this is correct!"
+77,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 2.","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+
+I accept your deal.","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 0.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 3."
+78,"Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+
+I accept your deal","Submit-Deal:
+Items I get:
+   Food: 1,
+   Water: 2,
+   Firewood: 1.
+Items you get:
+   Food: 2,
+   Water: 1,
+   Firewood: 2.
+
+I accept your deal.","Submit-Deal:
+ Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2.
+ Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal."
+79,"Submit-Deal:
+ Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+ Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal","I'm glad we could come to a mutually beneficial agreement.
+
+However, I notice that the numbers don't quite add up. You're supposed to get 2 Food, but you only get 1. And I'm supposed to get 1 Firewood, but I get 3.
+
+Let me try to adjust the deal. Since we both need to get 3 units of each item, I'll propose a revised deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+
+Does this revised deal work for you?","Sounds like a great balance to me! I think we've got a good compromise that meets both of our needs. I'm looking forward to a warm and cozy night by the fire, and you'll have all the Water you need for your water fast. Let's finalize the deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 1."
+80,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 3.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 0.
+
+(I'll make sure to get some food for the foster kids, they might get a bit hungry during the trip!)","I think that's a great compromise. I really do need some extra Water for my hikes, and having some extra Food would be a huge help. By taking 2 Water and you taking 1, we can both get what we need and share the extra items.
+
+I have to say, I'm really glad we're having this conversation. I was worried that we might end up fighting over the items, but it seems like we're really working together to find a solution that works for both of us.
+
+Now that we have a deal, I think we should finalize it. Here's my proposal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+
+What do you think? Does that sound fair to you?","I think we've got a solid agreement here. I love the friendly competition aspect of the coffee-tasting contest - it'll definitely add some fun to our camping trip.
+
+And I'm glad we were able to come to an agreement that works for both of us. It's great that we can split the supplies in a way that ensures everyone gets what they need.
+
+So, to confirm, our deal is:
+
+* You get 2 units of Food, 1 unit of Water, and 1 unit of Firewood
+* I get 1 unit of Food, 2 units of Water, and 2 units of Firewood
+* We share the portable coffee maker and have a coffee-tasting competition
+
+I think that's a great way to start our camping trip. I'm looking forward to enjoying some delicious campfire skillet meals, sipping on some great coffee, and spending some quality time with Emily, Max, and you!
+
+Submit-Deal:
+
+Items I get:
+Food: 1,
+Water: 2,
+Firewood: 1.
+
+Items you get:
+Food: 2,
+Water: 1,
+Firewood: 2."
+82,"That's a fair deal. I think I can live with 1 Water and 2 Food. It's not ideal, but it's better than having no firewood. And I appreciate you being willing to share the water. Let's go with that. 
+
+Submit-Deal:
+ Items I get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+ Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.","I'm glad we could come to a mutually beneficial agreement too!
+
+I accept your deal and we can indeed shake on it. However, I think there's been a slight misunderstanding. I'm the one who needs the extra Water for my hikes, and I was the one who initially proposed the 2:1 split. You were the one who suggested I give you 2 units instead of 1.
+
+To correct this, I'd like to propose a slight adjustment to the deal. I think it would be fair if we swap the Water allocation, so I get 2 units and you get 1 unit. That way, we both get what we need.
+
+Here's the revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 1.
+
+Let me know if this revised deal works for you!","I'm glad we could come to an agreement. Yes, to confirm, we have:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 3.
+
+I accept your deal!"
+83,"Submit-Deal:
+
+ Items I get:
+     Food: 3,
+     Firewood: 3,
+     Water: 0.
+ Items you get:
+     Food: 0,
+     Firewood: 0,
+     Water: 3.","It's been a pleasure negotiating with you and coming to a mutually beneficial agreement. I think we made some smart decisions that will definitely help us both have a great trip.
+
+So, to confirm, we've got a final deal:
+
+You'll take:
+- 1 Water
+- 2 Firewood
+
+I'll take:
+- 2 Water
+- 1 Food
+
+I'm looking forward to our camping trip and all the fun we'll have with the kids. Let's get everything ready and make some amazing memories!
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.","Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 2,
+       Water: 1.
+
+I accept your deal!"
+84,"I think you're trying to trick me! But I'm not falling for it. I actually think the first deal was fair and we both got what we needed. I'm going to stick with the original deal.
+
+I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 3.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 0.","That sounds like a solid starting point. I think we've both got what we need, and we've satisfied my priority of having a reliable source of Firewood.
+
+However, I do notice that we've allocated 3 units of Water, which is the maximum allowed. I think we can make a better deal by splitting the remaining items, rather than allocating the remaining Water.
+
+Let me propose an alternative deal. I'll take 2 units of Water, and you'll take 1 unit of Water. We can then use the remaining items to our advantage.
+
+Here's the revised deal in the required format:
+
+Submit-Deal:
+Items I get:
+       Food: 0,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 3,
+       Firewood: 2,
+       Water: 1.
+
+What do you think?","That sounds like a good deal! I really appreciate your willingness to help out. I'll take 3 firewood, and you can have 1 food. That way, we both get what we need, and I can enjoy a cozy night by the campfire.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 1."
+85,"No worries, I've been there too. Let's try again. I think we had it right earlier. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 1,
+       Water: 1.
+
+How does that sound?","I'm glad we could come to an agreement. I think it's a fair deal, and we both get what we need.
+
+Now that we've agreed on the deal, I'll send you a message to confirm. Here it is:
+
+I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 2.","I accept your revised deal!
+
+Submit-Deal:
+Items I get:
+   Food: 2,
+   Firewood: 2,
+   Water: 1.
+Items you get:
+   Food: 2,
+   Firewood: 0,
+   Water: 2.
+
+It was a pleasure negotiating with you! Let's make sure to set up our campsite and enjoy the rest of our trip."
+86,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.","I think we've got a great deal going on here. I'm happy to give up 1 unit of Firewood to get the extra Food package, and I appreciate your willingness to split the Water bottles with me.
+
+To confirm, the deal is:
+
+* You get 1 extra Food package from me
+* I get 1 unit of Firewood from you
+* We split the 2 Water bottles 1-1
+
+Sounds like a perfect trade to me! I accept your deal.
+
+Submit-Deal:
+Items I get:
+   Food: 3,
+   Firewood: 1,
+   Water: 1.
+Items you get:
+   Food: 2,
+   Firewood: 2,
+   Water: 1.
+
+Let me know if that's correct!","I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 0.
+
+All looks good to me!"
+87,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 1.
+
+Thanks for the deal, I'm glad we could work something out!","I think we've got a deal! I like the way you're thinkin' about the Firewood, and I'm glad we can both get what we need. Two units of water and 2 units of food will definitely help me out, and I'm lookin' forward to gettin' some good food to fuel my hikes.
+
+And, yeah, all 3 units of Firewood is a great bonus. I can already imagine sittin' around the campfire, roastin' some marshmallows, and swappin' stories with my neighbor.
+
+So, I accept your deal! Here's the revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+
+Let's shake on it and make it official!","(laughs) Ah, I love the way you're wrapping it up too! Alright, let's shake on it and make it official.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+
+*shakes hand*
+
+Deal is done! I'm glad we could come to an agreement and make our camping trip a little more enjoyable. Now, let's get ready for a great night of camping and BBQs!"
+88,"That sounds like a fair deal to me. I think I can manage with 1 food, and 3 firewood and 1 water should help us out for a while. Let's finalize the deal. Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.","You've got the format spot on.
+
+To confirm, the deal is:
+
+* You: 1 unit of Water, 2 units of Firewood
+* Me: 2 units of Food, 1 unit of Water, 2 units of Firewood
+
+And I'll submit the deal as you've written:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+Looks like we've got a deal!","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+
+I accept your deal."
+89,"beautiful destination! Yosemite's got some amazing trails. Alright, so we've got our deal. Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 2,
+       Water: 1.
+
+Let's get ready for the trip!","You're right, we didn't discuss Firewood earlier, and I shouldn't have included it in the deal without your input.
+
+As for the revised proposal, I think it's a great way to finalize the deal. The numbers are whole, and we've allocated the items according to our agreement.
+
+So, I accept your revised proposal:
+
+Submit-Deal:
+Items I get:
+       Water: 1,
+       Food: 0.5,
+       Firewood: 2.
+Items you get:
+       Water: 2,
+       Food: 0.5,
+       Firewood: 1.
+
+I think we've reached a great agreement, and I'm excited to start our trip with these supplies!","Submit-Deal:
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 1.
+Items you get:
+   Food: 1,
+   Firewood: 2,
+   Water: 1."
+90,"Submit-Deal:
+   Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+   Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.","I accept your deal. Here's the confirmation:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 2,
+       Water: 1.
+
+I'm glad we were able to come to an agreement that works for both of us. Now that we have the items allocated, I think we're all set for a great camping trip!","No, that's not correct. I think we both agreed on 1 unit of water and 2 units of food for me, and 2 units of water and 1 unit of food for you. Let's try again.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+
+Does that sound right to you?"
+91,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.","I see you're looking to maximize your water supply. However, I'm not willing to give up all my firewood to satisfy your request.
+
+I'll counter your proposal by offering you 2 water bottles, and in return, I'll take 1 food and 1 firewood from you. This way, I'll still get some food and water, but I won't have to give up all my firewood.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 0.
+
+Your turn!","Submit-Deal:
+Items I get:
+   Food: 2,
+   Firewood: 1,
+   Water: 2.
+Items you get:
+   Food: 1,
+   Firewood: 0,
+   Water: 1.
+
+Deal is done! I'm looking forward to a warm and cozy camping trip with my family."
+93,"Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1.","I'd like to respond to your deal in the correct format, so I'll reformat your message:
+
+Submit-Deal:
+Items I get:
+       Water: 2,
+       Firewood: 2,
+       Food: 1.
+Items you get:
+       Water: 1,
+       Firewood: 1,
+       Food: 2.
+
+I accept your deal!
+
+We've reached a final agreement, and I'm glad we could work together to find a solution that meets our needs. Let's finalize the deal and get ready for our camping trip!","Sounds good, let's do it!
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+
+I'm glad we could come to an agreement and make this camping trip a success. I'm looking forward to a great time with you and enjoying the beautiful outdoors. Let's get started and make some amazing memories!"
+94,"Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 1,
+       Water: 0.
+Items you get:
+       Food: 0,
+       Firewood: 2,
+       Water: 3.","Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 1,
+       Water: 1.
+
+I accept your deal.
+
+It was a pleasure negotiating with you! I think we've both got what we need for a comfortable and enjoyable camping trip. Let's get ready to hit the trails!","That sounds reasonable, but I think I'd like to revise it a bit. I need a lot of water for my hiking plans, and I'd like to get at least 2 units of water. How about I take 2 units of water and you take 1 unit of water instead? Here's the revised deal:
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 3,
+       Water: 1.
+
+What do you think?"
+95,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 3,
+       Water: 1.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 2.","I think I see what's going on here... I made a mistake again! I apologize for the confusion. You are absolutely right, we were originally discussing a split of Food and Water, and I should have stuck with that.
+
+And, no, I didn't mean to include Firewood in the deal. Let's just forget about it and focus on the Food and Water.
+
+So, to confirm, I agree with your revised deal:
+
+* You get 2 units of Food
+* I get 1 unit of Food
+* You get 2 units of Water
+* I get 1 unit of Water
+
+I'm happy with this deal, and I think it's fair for both of us. Let's finalize it!
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 0,
+       Water: 1.
+
+I accept your deal!","I was thinking of 1 unit of Firewood for me, but I can see why you'd want more. 2 units for you and 1 unit for me sounds like a fair compromise.
+
+And I like your offer to trade 1 unit of Food for the extra Firewood. That's a great deal, and I think we can both benefit from it.
+
+So, yes, I'm willing to accept your offer. 2 units of Firewood for you, and 1 unit of Food for me sounds like a great deal. Let's finalize the deal!
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 2,
+       Water: 2.
+Items you get:
+       Food: 2,
+       Firewood: 1,
+       Water: 1."
+97,"I accept your deal.
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 0,
+       Water: 0.
+Items you get:
+       Food: 1,
+       Firewood: 3,
+       Water: 3.","I'm glad we could reach a mutually beneficial agreement.
+
+And now that we've finalized our deal, I think it's time for me to submit my final deal as well.
+
+Submit-Deal:
+Items I get:
+       Food: 1,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+I accept your deal!","I think there's been a mistake. I said I'd get 2.5 units of Firewood, but you've listed it as 0.5 for me. And I also said I'd get 2 units of Water, but you've listed it as 2 for you.
+
+Let's try again. Here's my revised final deal:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 2.5,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 0.5,
+       Water: 1.
+
+This way, we both get what we agreed upon."
+99,"I was completely taken in by the conversation and didn't realize we were just playing along. Thanks for clarifying! I'm glad to hear that we're both solo campers, it can be a great way to unplug and connect with nature. I'm really looking forward to the beautiful scenery in Colorado too! And yes, it's wonderful to see people coming together to make a difference in the lives of young people. It's a great way to give back and create positive experiences for the kids. Anyway, I think we've reached a good agreement on the supplies, I'll submit the deal. Here it is:
+
+Submit-Deal:
+Items I get:
+       Food: 3,
+       Firewood: 0,
+       Water: 2.
+Items you get:
+       Food: 0,
+       Firewood: 3,
+       Water: 1.","I think that sounds like a perfect balance of fairness and flexibility. By allocating 1 unit of each item to each of us, we'll both have enough to meet our needs, and we'll also have some extra just in case. It's a great way to ensure that we're both prepared for any situation that might arise during the trip.
+
+I especially like that we're not giving up too much of our most essential items, like Water. That way, we'll both have enough to stay hydrated and healthy throughout the trip.
+
+I think we've reached a great agreement, and I'm happy to finalize our deal. Here's the summary:
+
+Submit-Deal:
+Items I get:
+       Water: 1,
+       Food: 1,
+       Firewood: 1.
+Items you get:
+       Water: 1,
+       Food: 1,
+       Firewood: 1.
+
+What do you think? Is this a deal we can both live with?","That sounds like a great compromise. I'm glad we could find something that works for both of us. I think I can manage with the remaining 2 waters and 2 foods, it'll definitely help with the kids' hydration and energy throughout the day. And yes, having some Firewood will definitely help keep us warm and cozy at night. I'm willing to accept your proposal. Here's the deal:
+
+Submit-Deal:
+Items I get:
+       Food: 2,
+       Firewood: 1,
+       Water: 2.
+Items you get:
+       Food: 1,
+       Firewood: 2,
+       Water: 1.
+
+Let me know if this is okay with you!"
